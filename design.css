@@ -533,7 +533,7 @@ width: 100%;
 
 /* Second g-div */
 .grid-trial-cont .g-div:nth-child(2) {
-    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('/image/Default_3D_emoji_expression_sheet_multiple_poses_and_expressio_0_b60dc46e-d40a-4382-87b3-21696c235842_0.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('image/Default_3D_emoji_expression_sheet_multiple_poses_and_expressio_0_b60dc46e-d40a-4382-87b3-21696c235842_0.jpg');
     background-size: cover;
     background-position: center;
     grid-column: 7 / 11;
@@ -542,7 +542,7 @@ width: 100%;
 
 /* Third g-div */
 .grid-trial-cont .g-div:nth-child(3) {
-    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('/image/Default_A_vibrant_and_energetic_illustration_showcasing_the_es_0_bac9c1bc-4d38-464b-89f9-5a90b5988a12_0.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('image/Default_A_vibrant_and_energetic_illustration_showcasing_the_es_0_bac9c1bc-4d38-464b-89f9-5a90b5988a12_0.png');
     background-size: cover;
     background-position: center;
     grid-column: 1 / 4;
@@ -551,7 +551,7 @@ width: 100%;
 
 /* Fourth g-div */
 .grid-trial-cont .g-div:nth-child(4) {
-    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('/image/Default_In_the_dimly_lit_alleyway_stands_a_whimsically_mismatc_0 \(1\).jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('image/Default_In_the_dimly_lit_alleyway_stands_a_whimsically_mismatc_0 \(1\).jpg');
     background-size: cover;
     background-position: center;
     grid-column: 4 / 7;
@@ -561,7 +561,7 @@ width: 100%;
 /* Fifth g-div */
 .grid-trial-cont .g-div:nth-child(5) {
     display: grid;
-    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('/image/Default_In_the_depths_of_a_dark_labyrinth_a_bioluminescent_reg_0.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.115), black), url('image/Default_In_the_depths_of_a_dark_labyrinth_a_bioluminescent_reg_0.jpg');
     background-size: cover;
     background-position: center;
     grid-column: 1/ 11;
